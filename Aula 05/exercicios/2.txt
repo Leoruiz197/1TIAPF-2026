@@ -1,0 +1,3 @@
+esse é o texto 2
+segunda linha do texto 2
+finalizamos o 2

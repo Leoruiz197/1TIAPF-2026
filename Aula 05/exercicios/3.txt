@@ -1,0 +1,6 @@
+texto 1 
+só um detalhe da segunda linha
+encerrando o texto 1
+esse é o texto 2
+segunda linha do texto 2
+finalizamos o 2

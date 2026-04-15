@@ -14,3 +14,6 @@ for linha in matriz:
         print(elemento, end= " ")
     print()
 
+for x in range(3): # lista externa
+    for y in range(3): #lista interna
+        print(matriz[x][y])

@@ -1,0 +1,3 @@
+texto 1 
+só um detalhe da segunda linha
+encerrando o texto 1
